@@ -1,2 +1,4 @@
 abc
 bca
+new
+line2
