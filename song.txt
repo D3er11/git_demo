@@ -23,7 +23,10 @@ NEW
 next
 aaa
 >>>>>>> feauture
+<<<<<<< HEAD
 >>>>>>> main
 =======
 asdfsad
 >>>>>>> 92716ad950c9c6a33f578ad7925da8836b710e3f
+=======
+>>>>>>> main
