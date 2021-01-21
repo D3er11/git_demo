@@ -6,8 +6,16 @@ line git
 gui
 
 i was young
+<<<<<<< HEAD
 --------------
 
 3rd
 
 4rd
+=======
+NEW 
+
+3rd
+next
+aaa
+>>>>>>> feauture
