@@ -5,6 +5,7 @@ Hear my heart burst again
 For this is the end
 I've drowned and dreamt this moment
 So overdue, I owe them
+<<<<<<< HEAD
 Swept away, I'm stolen
 Let the sky fall
 When it crumbles
@@ -30,3 +31,4 @@ When it crumbles (when it crumbles)
 We will stand tall (we will stand tall)
 Face it all together
 At Skyfall
+
