@@ -4,10 +4,3 @@ new
 line2
 line git
 gui
-
-i was young
-NEW 
-
-3rd
-next
-aaa
