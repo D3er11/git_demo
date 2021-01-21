@@ -6,6 +6,7 @@ line git
 gui
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 asdfsad
 =======
 i was young
@@ -23,3 +24,6 @@ next
 aaa
 >>>>>>> feauture
 >>>>>>> main
+=======
+asdfsad
+>>>>>>> 92716ad950c9c6a33f578ad7925da8836b710e3f
